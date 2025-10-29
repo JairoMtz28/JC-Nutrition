@@ -128,7 +128,17 @@ Esta sección tambien lucirá como la anterior, con la diferencia de que será d
 
 En la parte superior derecha de la sección principal de nuestra aplicación encontraremos un ícono de tres puntos, al presionarlo nos dirigirá a la pantalla de ajustes, en esta tendremos 2 opciones relevantes para el usuario, las cuales serán el modo de color de la aplicación y el uso de notificaciones.
 
+Es importante mencionar que, tanto el uso de notificaciones y el uso de un modo de color son guardados en caché al activarlos o desactivarlos, así que esta configuración se guardará localmente en la aplicación para no tener que configurarlo repetidamente.
+
+### Notificaciones 
+
+La aplicación es capaz de enviar recordatorios a modo de notificaciones para que el usuario no olvide consultar sus citas y/o pendientes. Estos recordatorios de crean cada vez que el usuario abre la aplicación y se programan 1 hora antes de la fecha de su cita más próxima, omitiendo las del día actual.
+
 <img width="1082" height="2402" alt="localhost_8100_tabs_tab1(Pixel 7) (24)" src="https://github.com/user-attachments/assets/9ae56f4d-188f-4a48-9773-18f0bbb10982" />
+
+### Modos de color
+
+La aplicación cuenta con 2 opciones en este apartado, la primera para utilizar el color predeterminado del teléfono, es decir, si se cambia el modo de color que el usuario está utilizando en su teléfono, este mismo se utilizará en la aplicación. Por otro lado también tendremos el uso del modo claro o modo oscuro a voluntad, bastará con desactivar la opción anterior para poder utilizar la que el usuario deseé.
 
 <img width="1082" height="2402" alt="localhost_8100_tabs_tab1(Pixel 7) (25)" src="https://github.com/user-attachments/assets/4ef36bc8-73f6-4750-aedb-2f82627b0251" />
 
